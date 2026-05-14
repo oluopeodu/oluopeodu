@@ -1,8 +1,25 @@
 - 👋 Hi, I’m Olu Opeodu
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning Techniques 
-- 💞️ I’m looking to collaborate on varrious data science project
-- 📫 How to reach me : oluwaseunopeodu@yahoo.com
+### ☁️ Infrastructure as Code & Cloud Engineer
+Currently leveling up my skills in IaC to build scalable and automated environments.
+- 🔭 **Focus:** Mastering Terraform, Ansible, and Cloud Architecture.
+- 🚀 **Goal:** Streamlining deployments and "Automating All The Things."
+- ⚡ **Fun Fact:** Improving my MacBook environment and Git workflows daily.
+
+---
+
+### 🛠️ Tech Stack & Tools
+| Category | Tools |
+| :--- | :--- |
+| **IaC** | Terraform, CloudFormation (Learning) |
+| **Cloud** | AWS / Azure / GCP |
+| **Version Control** | Git, GitHub |
+| **Scripting** | Bash, Python |
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluopeodu&show_icons=true&theme=radical)
+- 📫 How to reach me : theoluopeodu@gmail.com
 
 <!---
 oluopeodu/oluopeodu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
