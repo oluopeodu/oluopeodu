@@ -17,6 +17,11 @@ Currently leveling up my skills in IaC to build scalable and automated environme
 
 ---
 
+## 🎯 Current Engineering Focus
+* **Infrastructure as Code:** Building scalable infrastructure frameworks using modular **Terraform**.
+* **CI/CD Automation:** Designing automated validation and deployment pipelines with **GitHub Actions**.
+* **Linux & Scripting:** Automating system administration and tasks via **Bash** and **Python**.
+
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluopeodu&show_icons=true&theme=radical)
 - 📫 How to reach me : theoluopeodu@gmail.com
