@@ -3,7 +3,7 @@
 Currently leveling up my skills in IaC to build scalable and automated environments.
 - 🔭 **Focus:** Mastering Terraform, Ansible, and Cloud Architecture.
 - 🚀 **Goal:** Streamlining deployments and "Automating All The Things."
-- ⚡ **Fun Fact:** Improving my MacBook environment and Git workflows daily.
+- ⚡ **Fun Fact:** Improving my MacBook environment and Git workflows daily and when I am mentally exhausted, I go play football.
 
 ---
 
